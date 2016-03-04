@@ -32,3 +32,16 @@
 
 ### 対応ブラウザ
 IE8+, Chrome, Firefox, Safari, Android, iOS
+
+## [Minigrid](https://github.com/manabuyasuda/jquery-plugins/wiki/Minigrid)
+### インストール
+* <a href="https://github.com/henriquea/minigrid">henriquea/minigrid: Minimal 2kb zero dependency cascading grid layout</a>
+* `npm install minigrid`
+* `//cdnjs.cloudflare.com/ajax/libs/minigrid/2.0.0/minigrid.min.js`
+
+### 特徴と注意点
+* 「Pinterest」のような高さが揃わないタイルUI
+* 親要素と子要素のclass属性を指定する
+* ミニファイした状態で2KB
+* アニメーションの拡張は<a href="http://julian.com/research/velocity/">Velocity.js</a>に依存する
+* CSSの`transition`プロパティでもアニメーションできる
