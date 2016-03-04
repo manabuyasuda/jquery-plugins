@@ -1,5 +1,5 @@
 # jquery-plugins
-よく使うjQueryプラグイン
+よく使うjQueryプラグインとスクリプト
 
 
 ## [smooth-scroll](https://github.com/manabuyasuda/jquery-plugins/wiki/smooth-scroll)
@@ -45,3 +45,9 @@ IE8+, Chrome, Firefox, Safari, Android, iOS
 * ミニファイした状態で2KB
 * アニメーションの拡張は<a href="http://julian.com/research/velocity/">Velocity.js</a>に依存する
 * CSSの`transition`プロパティでもアニメーションできる
+
+## [imageSwitch.js](https://github.com/manabuyasuda/jquery-plugins/wiki/imageSwitch.js)
+### 特徴と注意点
+* 自作スクリプト
+* jQueryで画像の`src`属性の値を一部変更して画像置換をする
+* ウィンドウサイズに応じて動的にも切り替わる
