@@ -62,3 +62,10 @@ IE8+, Chrome, Firefox, Safari, Android, iOS
 ### 特徴と注意点
 * モーダル
 * グループ化ができて、モーダル間を移動できる
+
+## [slick](https://github.com/manabuyasuda/jquery-plugins/wiki/slick)
+### 特徴と注意点
+* スライダー・カルーセル
+* レスポンシブ対応
+* キーボードやスワイプに対応
+* シンプルなマークアップ
