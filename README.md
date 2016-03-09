@@ -57,3 +57,8 @@ IE8+, Chrome, Firefox, Safari, Android, iOS
 * 自作スクリプト
 * 下にスクロールすると要素が非表示になり、上にスクロールすると表示される
 * 要素の固定と表示はCSSで指定する
+
+## [Colorbox](https://github.com/manabuyasuda/jquery-plugins/wiki/Colorbox)
+### 特徴と注意点
+* モーダル
+* グループ化ができて、モーダル間を移動できる
