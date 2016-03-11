@@ -58,6 +58,12 @@ IE8+, Chrome, Firefox, Safari, Android, iOS
 * 下にスクロールすると要素が非表示になり、上にスクロールすると表示される
 * 要素の固定と表示はCSSで指定する
 
+## [stickySidebar.js](https://github.com/manabuyasuda/jquery-plugins/wiki/stickySidebar.js)
+* 自作スクリプト
+* スティッキーヘッダー（任意の数値までスクロールすると要素が固定される）
+* リサイズにも対応
+* 要素の固定はCSSで指定する
+
 ## [Colorbox](https://github.com/manabuyasuda/jquery-plugins/wiki/Colorbox)
 ### 特徴と注意点
 * モーダル
