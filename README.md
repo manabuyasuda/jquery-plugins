@@ -52,6 +52,12 @@ IE8+, Chrome, Firefox, Safari, Android, iOS
 * jQueryで画像の`src`属性の値を一部変更して画像置換をする
 * ウィンドウサイズに応じて動的にも切り替わる
 
+## [imageProvide.js](https://github.com/manabuyasuda/jquery-plugins/wiki/imageProvide.js)
+### 特徴と注意点
+* 自作スクリプト
+* jQueryで画像の`data-image-provide`属性を`src`属性に付与する
+* ウィンドウサイズに応じて動的にも切り替わる
+
 ## [scrollNav.js](https://github.com/manabuyasuda/jquery-plugins/wiki/scrollNav.js)
 ### 特徴と注意点
 * 自作スクリプト
