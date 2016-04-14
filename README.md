@@ -64,6 +64,12 @@ IE8+, Chrome, Firefox, Safari, Android, iOS
 * 下にスクロールすると要素が非表示になり、上にスクロールすると表示される
 * 要素の固定と表示はCSSで指定する
 
+## [imageHover.js](https://github.com/manabuyasuda/jquery-plugins/wiki/imageHover.js)
+### 特徴と注意点
+* 自作スクリプト
+* 画像にマウスオーバーすると画像が切り替わる
+* src属性の`_off.`に一致した場合に処理、`_current.`に一致した場合は処理されない
+
 ## [stickySidebar.js](https://github.com/manabuyasuda/jquery-plugins/wiki/stickySidebar.js)
 * 自作スクリプト
 * スティッキーヘッダー（任意の数値までスクロールすると要素が固定される）
