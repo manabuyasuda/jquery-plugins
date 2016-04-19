@@ -58,6 +58,12 @@ IE8+, Chrome, Firefox, Safari, Android, iOS
 * jQueryで画像の`data-image-provide`属性を`src`属性に付与する
 * ウィンドウサイズに応じて動的にも切り替わる
 
+## [scrollPopup.js](https://github.com/manabuyasuda/jquery-plugins/wiki/scrollPopup.js)
+### 特徴と注意点
+* 自作スクリプト
+* ある要素（デフォルトではフッター）が表示されるとポップアップが表示される
+* レスポンシブ対応
+
 ## [scrollNav.js](https://github.com/manabuyasuda/jquery-plugins/wiki/scrollNav.js)
 ### 特徴と注意点
 * 自作スクリプト
