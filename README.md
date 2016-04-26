@@ -58,6 +58,12 @@ IE8+, Chrome, Firefox, Safari, Android, iOS
 * jQueryで画像の`data-image-provide`属性を`src`属性に付与する
 * ウィンドウサイズに応じて動的にも切り替わる
 
+## [imageSet.js](https://github.com/manabuyasuda/jquery-plugins/wiki/imageSet.js)
+### 特徴と注意点
+* 自作スクリプト
+* カスタムデータ属性にURLを指定して画像を切り替える
+* ウィンドウサイズに応じて動的にも切り替わる
+
 ## [scrollPopup.js](https://github.com/manabuyasuda/jquery-plugins/wiki/scrollPopup.js)
 ### 特徴と注意点
 * 自作スクリプト
@@ -81,6 +87,12 @@ IE8+, Chrome, Firefox, Safari, Android, iOS
 * スティッキーヘッダー（任意の数値までスクロールすると要素が固定される）
 * リサイズにも対応
 * 要素の固定はCSSで指定する
+
+
+## [selectLink](https://github.com/manabuyasuda/jquery-plugins/wiki/selectLink)
+* スマホとPCで`href`属性を切り替える
+* カスタムデータ属性にURLを指定して画像を切り替える
+* ウィンドウサイズに応じて動的にも切り替わる
 
 ## [Colorbox](https://github.com/manabuyasuda/jquery-plugins/wiki/Colorbox)
 ### 特徴と注意点
